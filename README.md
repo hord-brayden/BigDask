@@ -20,7 +20,7 @@ This project provides a Dask-based application to process very large numbers fro
 1. Clone the repository:
     ```sh
     git clone https://github.com/yourusername/BigDask.git
-    cd big_dask
+    cd BigDask
     ```
 
 2. Install the required dependencies:
