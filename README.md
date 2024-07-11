@@ -19,8 +19,8 @@ This project provides a Dask-based application to process very large numbers fro
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/large_number_processor.git
-    cd large_number_processor
+    git clone https://github.com/yourusername/BigDask.git
+    cd big_dask
     ```
 
 2. Install the required dependencies:
@@ -45,7 +45,7 @@ Given an input file `numbers.txt` with the following content:
 
 Run the application:
 ```sh
-python large_number_processor.py numbers.txt
+python big_dask.py numbers.txt
 ```
 
 The output will be:
