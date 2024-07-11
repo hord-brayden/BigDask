@@ -33,7 +33,7 @@ This project provides a Dask-based application to process very large numbers fro
 
 2. Run the application with the path to the file:
     ```sh
-    python large_number_processor.py path/to/your/file.txt
+    python big_dask.py path/to/your/file.txt
     ```
 
 3. Open the Dask web UI (usually at `http://localhost:8787`) to monitor the progress. The link to the Dask dashboard will also be printed in the terminal.
